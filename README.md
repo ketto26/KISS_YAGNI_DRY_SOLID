@@ -1,0 +1,3 @@
+
+KISS, YAGNI, DRY & SOLID 🏴‍☠️⚓️
+
